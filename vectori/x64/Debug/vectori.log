@@ -1,0 +1,5 @@
+﻿  vectori.cpp
+C:\mycode\initiere\vectori\vectori\tema.h(252,6): warning C4101: 'y': unreferenced local variable
+  (compiling source file 'vectori.cpp')
+  
+  vectori.vcxproj -> C:\mycode\initiere\vectori\x64\Debug\vectori.exe
